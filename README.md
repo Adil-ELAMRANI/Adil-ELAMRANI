@@ -48,4 +48,3 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adil-ELAMRANI/Adil-ELAMRANI/output/pacman-contribution-graph.svg">
 </picture>
 
-###
